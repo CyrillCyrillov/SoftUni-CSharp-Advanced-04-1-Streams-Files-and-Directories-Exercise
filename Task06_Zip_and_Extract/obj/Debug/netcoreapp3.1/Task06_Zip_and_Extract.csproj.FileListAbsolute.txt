@@ -1,0 +1,14 @@
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\bin\Debug\netcoreapp3.1\Task06_Zip_and_Extract.exe
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\bin\Debug\netcoreapp3.1\data\copyMe.png
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\bin\Debug\netcoreapp3.1\Task06_Zip_and_Extract.deps.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\bin\Debug\netcoreapp3.1\Task06_Zip_and_Extract.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\bin\Debug\netcoreapp3.1\Task06_Zip_and_Extract.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\bin\Debug\netcoreapp3.1\Task06_Zip_and_Extract.dll
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\bin\Debug\netcoreapp3.1\Task06_Zip_and_Extract.pdb
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\obj\Debug\netcoreapp3.1\Task06_Zip_and_Extract.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\obj\Debug\netcoreapp3.1\Task06_Zip_and_Extract.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\obj\Debug\netcoreapp3.1\Task06_Zip_and_Extract.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\obj\Debug\netcoreapp3.1\Task06_Zip_and_Extract.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\obj\Debug\netcoreapp3.1\Task06_Zip_and_Extract.dll
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\obj\Debug\netcoreapp3.1\Task06_Zip_and_Extract.pdb
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task06_Zip_and_Extract\obj\Debug\netcoreapp3.1\Task06_Zip_and_Extract.genruntimeconfig.cache
