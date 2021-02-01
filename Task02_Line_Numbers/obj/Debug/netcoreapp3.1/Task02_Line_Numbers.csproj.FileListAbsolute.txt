@@ -1,0 +1,14 @@
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\bin\Debug\netcoreapp3.1\Task02_Line_Numbers.exe
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\bin\Debug\netcoreapp3.1\data\text.txt
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\bin\Debug\netcoreapp3.1\Task02_Line_Numbers.deps.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\bin\Debug\netcoreapp3.1\Task02_Line_Numbers.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\bin\Debug\netcoreapp3.1\Task02_Line_Numbers.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\bin\Debug\netcoreapp3.1\Task02_Line_Numbers.dll
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\bin\Debug\netcoreapp3.1\Task02_Line_Numbers.pdb
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\obj\Debug\netcoreapp3.1\Task02_Line_Numbers.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\obj\Debug\netcoreapp3.1\Task02_Line_Numbers.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\obj\Debug\netcoreapp3.1\Task02_Line_Numbers.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\obj\Debug\netcoreapp3.1\Task02_Line_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\obj\Debug\netcoreapp3.1\Task02_Line_Numbers.dll
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\obj\Debug\netcoreapp3.1\Task02_Line_Numbers.pdb
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task02_Line_Numbers\obj\Debug\netcoreapp3.1\Task02_Line_Numbers.genruntimeconfig.cache
