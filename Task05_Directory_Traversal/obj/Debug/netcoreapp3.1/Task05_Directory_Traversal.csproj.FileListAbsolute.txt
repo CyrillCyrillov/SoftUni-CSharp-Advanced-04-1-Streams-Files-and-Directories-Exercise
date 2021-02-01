@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\bin\Debug\netcoreapp3.1\Task05_Directory_Traversal.exe
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\bin\Debug\netcoreapp3.1\Task05_Directory_Traversal.deps.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\bin\Debug\netcoreapp3.1\Task05_Directory_Traversal.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\bin\Debug\netcoreapp3.1\Task05_Directory_Traversal.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\bin\Debug\netcoreapp3.1\Task05_Directory_Traversal.dll
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\bin\Debug\netcoreapp3.1\Task05_Directory_Traversal.pdb
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\obj\Debug\netcoreapp3.1\Task05_Directory_Traversal.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\obj\Debug\netcoreapp3.1\Task05_Directory_Traversal.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\obj\Debug\netcoreapp3.1\Task05_Directory_Traversal.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\obj\Debug\netcoreapp3.1\Task05_Directory_Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\obj\Debug\netcoreapp3.1\Task05_Directory_Traversal.dll
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\obj\Debug\netcoreapp3.1\Task05_Directory_Traversal.pdb
+C:\Users\Kiril\Advanced_CSharp\04_Streams-Files-and-Directories-Exercise\Task05_Directory_Traversal\obj\Debug\netcoreapp3.1\Task05_Directory_Traversal.genruntimeconfig.cache
